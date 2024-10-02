@@ -4,7 +4,6 @@
 
 int main()
 {
-
     printf("          P  /_\\  P                                \n");
     printf("         /_\\_|_|_/_\\                              \n");
     printf("     n_n | ||. .|| | n_n         Bem vindo ao       \n");
